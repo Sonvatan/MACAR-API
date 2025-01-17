@@ -1,0 +1,25 @@
+{
+  "name": "macar-api",
+  "version": "0.0.1-pre-alpha.0",
+  "description": "Node.JS API for mete todo",
+  "keywords": [
+    "vatan",
+    "son",
+    "macar",
+    "mete"
+  ],
+  "license": "MIT",
+  "author": "mete",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "rethinkdbdash": "^2.3.31",
+    "start": "^5.1.0",
+    "yarn": "^1.22.22"
+  }
+}
